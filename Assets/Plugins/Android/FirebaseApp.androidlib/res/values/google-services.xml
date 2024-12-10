@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">856822273258</string>
+  <string name="google_storage_bucket" translatable="false">mema-proj-9c21b.appspot.com</string>
+  <string name="project_id" translatable="false">mema-proj-9c21b</string>
+  <string name="google_api_key" translatable="false">AIzaSyDWE2F9Xcw9c9YGvgqvIbcfMiePeVg8CHg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWE2F9Xcw9c9YGvgqvIbcfMiePeVg8CHg</string>
+  <string name="google_app_id" translatable="false">1:856822273258:android:7f0e2c8133f9c65e7af393</string>
+  <string name="default_android_client_id" translatable="false">856822273258-hq0qb0sqq272ufnef9aj78gu7prkq49e.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">856822273258-rdpbk36d27s0iqd5a1brkmt3otaeorsn.apps.googleusercontent.com</string>
+</resources>

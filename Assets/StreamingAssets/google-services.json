@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856822273258",
+    "project_id": "mema-proj-9c21b",
+    "storage_bucket": "mema-proj-9c21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856822273258:android:7f0e2c8133f9c65e7af393",
+        "android_client_info": {
+          "package_name": "com.mema.proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856822273258-hq0qb0sqq272ufnef9aj78gu7prkq49e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mema.proj",
+            "certificate_hash": "8ccaec5fef9b7dc9de663003cd02167b10a138b4"
+          }
+        },
+        {
+          "client_id": "856822273258-rdpbk36d27s0iqd5a1brkmt3otaeorsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWE2F9Xcw9c9YGvgqvIbcfMiePeVg8CHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856822273258-rdpbk36d27s0iqd5a1brkmt3otaeorsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
